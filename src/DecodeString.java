@@ -37,7 +37,6 @@ public class DecodeString {
 //        }
 //        return ans;
 //    }
-
     static StringBuilder decStr(String S){
         int num=0;
         StringBuilder ans = new StringBuilder();
